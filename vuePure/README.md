@@ -20,8 +20,8 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-[^注释说明]
+[^注释说明]:菜鸟教程 -- 学的不仅是技术，更是梦想！！！
 
-～～build～～
+~~build~~
 
 `new Date()` 日期函数
